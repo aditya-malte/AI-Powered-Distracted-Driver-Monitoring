@@ -14,7 +14,7 @@ Hence had to use, tranfer learning, dropout, regularization(to lower covariance)
 and a host of other techniques like data augmentation.
 
 Future additions:
-1)Would probably add AlphaPose/OpenPose as a feature detection in addition to training a
+1)Would add AlphaPose/OpenPose as a feature detectior(instead of this CNN model) in addition to training a
   mobile position localization CNN, to sound alarm if the hand is near a mobile.
 2)Sleepiness/Fatigues detection using dlib.
 3)Addition of LSTM/other time series model to detect anomalies in driving.
