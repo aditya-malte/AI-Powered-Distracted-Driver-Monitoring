@@ -1,4 +1,9 @@
-I am making an all round driver monitoring tool to detect 
+Technologies used:
+1)Convolutional Neural Networks
+2)Transfer Learning
+3)Image Processing
+
+Making an all round driver monitoring tool to detect 
 1)Distracted driver(using a mobile)
 2)Sleepiness
 3)Anomalies in driving style(eg. haste, drunkenness)
